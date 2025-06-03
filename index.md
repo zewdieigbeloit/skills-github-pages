@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog! This is Israel Zewdie
+title: "Welcome to my blog! This is Israel Zewdie"
 ---
